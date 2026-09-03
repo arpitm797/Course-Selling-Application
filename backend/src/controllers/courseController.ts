@@ -1,5 +1,5 @@
 import { Request, Response } from "express";
-import Course from "../models/Course";
+import Course from "../models/course";
 import mongoose from "mongoose";
 
 // Get all courses
